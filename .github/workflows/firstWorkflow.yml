@@ -6,5 +6,4 @@ jobs:
      steps:
         - name: Hello Github Action
           run: echo "Hello this is first workflow actions"
-        - name : Date
-          run: Date
+        
